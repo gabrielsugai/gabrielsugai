@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center" > Hello World! I'm Gabriel.</h2>
+<p align="center"> <img src="https://media2.giphy.com/media/l0He4nkyI5cMhXzvW/200.gif"></p>
 
-<!--
-**gabrielsugai/gabrielsugai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓Graduated in Industrial Mechatronics at FATEC Santo André
+- 🌱 &nbsp; Learning more about Web development and Android development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C | C++ | Ruby | MATLAB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Ruby on Rails | Bootstrap
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; AutoCAD | Fusion 360 | Photoshop
+
+<h3> 🤝🏻 Contact </h3>
+<p align="center">
+<img alt="Portifolio" src="https://img.shields.io/badge/Portifolio-In%20Progress-orange?style=flat-square&logo=google-chrome">
+<a href="https://www.linkedin.com/in/gabriel-sugai-14126b192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Sugai-blue?style=flat-square&logo=linkedin"></a>
+</p>
