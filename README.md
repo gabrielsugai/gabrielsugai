@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Graduated in Industrial Mechatronics at FATEC Santo André
-- 🎓 &nbsp; TreinaDev 3 participant at CampusCode
+- 🎓 &nbsp; TreinaDev 3 participant at [@campuscode](http://github.com/campuscode/)
 - 🌱 &nbsp; Learning more about Web development and Android development
 
 
