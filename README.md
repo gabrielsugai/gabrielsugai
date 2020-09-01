@@ -3,8 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓Graduated in Industrial Mechatronics at FATEC Santo André
+- 🎓 &nbsp; Graduated in Industrial Mechatronics at FATEC Santo André
+- 🎓 &nbsp; TreinaDev 3 participant at CampusCode
 - 🌱 &nbsp; Learning more about Web development and Android development
+
 
 <h3>🛠 Tech Stack</h3>
 
