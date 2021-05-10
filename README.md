@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Python | C | C++ | Ruby | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Ruby on Rails | Bootstrap
-- 🔧 &nbsp; Git | Markdown
+- 🔧 &nbsp; Git | Markdown | Docker
 - 🖥 &nbsp; AutoCAD | Fusion 360 | Photoshop
 
 <h3> 🤝🏻 Contact </h3>
