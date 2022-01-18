@@ -14,13 +14,12 @@
 - 🔧 &nbsp; Git | Markdown | Docker
 - 🖥 &nbsp; AutoCAD | Fusion 360
 
-<h3> 🤝 Contato </h3>
-<p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsugai&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsugai&hide=TeX&layout=compact)
+
+<h3 align="center"> 🤝 Contato </h3>
+<p align="center">
 <img alt="Portifolio" src="https://img.shields.io/badge/Portifolio-In%20Progress-orange?style=flat-square&logo=google-chrome">
 <a href="https://www.linkedin.com/in/gabriel-sugai-14126b192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Sugai-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsugai&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsugai&hide=TeX&layout=compact)
