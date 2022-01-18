@@ -1,11 +1,11 @@
 <h2 align="center" > Hello World! </h2>
-<p align="center"> <img src="https://media2.giphy.com/media/l0He4nkyI5cMhXzvW/200.gif"></p>
 
 - 🎓 &nbsp; Graduado em  Mecatrônica Industrial pela [FATEC Santo André](http://www.fatecsantoandre.edu.br/)
-- 🎓 &nbsp; Participei do TreinaDev3 realizada pela [@campuscode](http://github.com/campuscode/)
-- 🌱 &nbsp; Desenvolvedor ruby trabalhando na [@iugu](https://www.iugu.com/)
+- 🎓 &nbsp; Participei do TreinaDev3 realizado pela [@campuscode](http://github.com/campuscode/)
+- 🌱 &nbsp; Desenvolvedor ruby, trabalhando na [@iugu](https://www.iugu.com/)
 - 🎓 &nbsp; Atualmente estudando mais sobre o "CleanCode", boas práticas e a Web
 
+<p align="center"> <img src="https://media2.giphy.com/media/l0He4nkyI5cMhXzvW/200.gif"></p>
 
 <h3>🛠 Tech Stack</h3>
 
