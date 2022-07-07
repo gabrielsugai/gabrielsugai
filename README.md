@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://media2.giphy.com/media/l0He4nkyI5cMhXzvW/200.gif"></p>
 
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello World! :earth_americas:
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hello World! :earth_americas:
 
 - 🎓 &nbsp; Graduado em  Mecatrônica Industrial pela [FATEC Santo André](http://www.fatecsantoandre.edu.br/)
 - 🎓 &nbsp; Participei do TreinaDev3 realizado pela [@campuscode](http://github.com/campuscode/)
